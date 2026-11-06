@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://staklim-pabar.pages.dev/sitemap.xml
